@@ -180,7 +180,7 @@ print(f"Testing k={k:.1f}, c={c:.1f}")
 
 ## License
 
-This project is open source. Feel free to modify and distribute according to your needs.
+This project is not open source. Please do not use or modify this code.
 
 ## Contributing
 
