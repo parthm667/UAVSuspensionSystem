@@ -98,19 +98,11 @@ The program provides detailed results including:
 ```
 MONTE CARLO OPTIMIZATION RESULTS
 ================================================================================
-Optimal Spring Stiffness (k): 7234.56 N/m
-Optimal Damping Coefficient (c): 567.89 N⋅s/m
-Success-to-Failure Ratio: 2.451
-Average Minimum Spring Length: 0.387 m
-Average Maximum Force: 2513.45 N
-Successful Runs: 245
-Failed Runs: 100
-
-OVERALL STATISTICS
-----------------------------------------
-Total Successful Runs: 234567
-Total Failed Runs: 123456
-Overall Success Rate: 65.5%
+Optimal k: 9450.341139436745, Optimal c: 290.27196314437174, Success/Fail Ratio: 299.0 --> (Author Note: 99.67% Success Rate For Optimal Parameters)
+Average Minimum Spring Length for Optimal k, c: 0.23750406220323705
+Average Maximum Force for Optimal k, c: 2875.8868902306353
+Total Number of Successful Runs: 71988
+Total Number of Failed Runs: 825312
 ================================================================================
 ```
 
