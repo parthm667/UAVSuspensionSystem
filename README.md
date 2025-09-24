@@ -33,10 +33,6 @@ pip install numpy scipy tqdm
 
 ## Usage
 
-### Basic Usage
-```bash
-python suspension_simulation.py
-```
 
 This runs the default optimization with:
 - 3,000 different parameter combinations
@@ -110,8 +106,6 @@ Total Number of Failed Runs: 825312
 
 Runtime depends on your system specifications:
 - **CPU cores**: More cores = faster parallel processing
-- **Default settings**: ~10-30 minutes on modern multi-core systems
-- **Memory usage**: ~1-2 GB RAM during execution
 
 ### Optimization Tips
 - Start with fewer iterations for testing: `num_iterations=100`
@@ -173,16 +167,3 @@ print(f"Testing k={k:.1f}, c={c:.1f}")
 ## License
 
 This project is not open source. Please do not use or modify this code.
-
-## Contributing
-
-Contributions are welcome! Areas for improvement:
-- Additional failure conditions
-- Different optimization algorithms  
-- Visualization of results
-- Parameter sensitivity analysis
-- Real-world validation data
-
-## Contact
-
-For questions or suggestions, please open an issue in the repository.
