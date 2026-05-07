@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1778136520263,
+  "projectRoot": "C:\\Users\\parth\\Documents\\UAVSuspensionSystem",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 2,
+      "lastAccessed": 1778136925069,
+      "type": "file"
+    },
+    {
+      "path": "monte_carlo.cpp",
+      "accessCount": 1,
+      "lastAccessed": 1778136715681,
+      "type": "file"
+    },
+    {
+      "path": "MonteCarlo.py",
+      "accessCount": 1,
+      "lastAccessed": 1778136719599,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
