@@ -1,5 +1,7 @@
 # UAV Suspension System
 
+DOI: https://doi.org/10.2514/6.2026-4336
+
 Monte Carlo optimization of landing-gear suspension parameters for a 4-wheeled paramotor-based UAV. Sweeps thousands of `(k, c)` spring/damper combinations under randomized touchdown conditions to find a design that maximizes successful landings while staying inside structural and attitude limits.
 
 The repo contains both the original Python prototype (`MonteCarlo.py`) and a faster, physics-corrected C++ port (`monte_carlo.cpp`) that produced the figures in the accompanying AIAA paper.
